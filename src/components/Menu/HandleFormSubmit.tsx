@@ -24,7 +24,7 @@ const handleFormSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
         message: formData.get('message')
       }
       try {
-        const url = 'https://formspree.io/df' + decryptAES(encryptedFormId, customData.password);
+        const url = 'https://formspree.io/' + decryptAES(encryptedFormId, customData.password);
         const response = await axios.post(url, orderData);
 
         // Handle the response as needed
