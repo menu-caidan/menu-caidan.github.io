@@ -1,0 +1,102 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #2e8555;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+div.navbar__items a[href="/docs/intro"] {
+  color: transparent;
+}
+
+.hero--primary {
+  background-image: url("../../static/img/backgroud_zenan.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  --ifm-hero-background-color: none;
+}
+
+.text-align-left {
+  text-align: left;
+}
+
+/*.alert-message {*/
+
+/*  background-color: #f44336;*/
+/*  color: white;*/
+/*  padding: 20px;*/
+/*  text-align: center;*/
+/*  font-size: 1.2rem;*/
+/*}*/
+
+/*.alert-message button {*/
+/*  background-color: transparent;*/
+/*  border: none;*/
+/*  color: white;*/
+/*  font-size: 1.2rem;*/
+/*  margin-left: 10px;*/
+/*  cursor: pointer;*/
+/*}*/
+
+
+.alert {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: 1rem 0;
+  padding: 1rem 1.5rem;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.alert-success {
+  color: #155724;
+  background-color: #d4edda;
+  border-color: #c3e6cb;
+}
+
+.centered-div {
+  display: flex;
+  justify-content: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .centered-div {
+    max-width: 100%;
+    padding: 0 20px;
+  }
+}
+
+
+
