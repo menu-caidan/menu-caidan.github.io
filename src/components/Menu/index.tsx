@@ -50,15 +50,17 @@ function MenuForm() {
           <input style={{ display: 'none' }} type="text" id="choice" name="choice" value={selectedChoice} readOnly required/>
 
           <label htmlFor="password">Password</label>
-          <input id="password" type="text" name="password" required/>
+          <input id="password" type="text" name="password" placeholder={"Password that is shared with you"} required/>
 
           <label htmlFor="name">Name</label>
-          <input id="name" type="text" name="name" required/>
+          <input id="name" type="text" name="name" placeholder={"Your name"} required/>
 
           <label htmlFor="message">Additional message</label>
-          <textarea id="message" name="message"/>
+          <textarea id="message" name="message" placeholder={"Putting your menu duo and select whatever the menu"}/>
 
-          <button type="submit">Submit</button>
+          <div style={{ display:'flex', alignItems: 'center', justifyContent: 'end' }}>
+            <button type="submit">Submit</button>
+          </div>
         </form>
       </div>
 
