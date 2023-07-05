@@ -1,13 +1,12 @@
-2023-06-28 （il y a un deuxième menu d'un autre resto en bas)
-Menu A : Porc sauté au cumin (épicé) + Côtes de porc sautées à l'ail + Courge sautée aux œufs et riz blanc (10 euros)
-Menu B : Bœuf braisé à la sauce jaune + Côtes de porc sautées à l'ail + Courge sautée aux œufs + Riz blanc (10 euros)
-Menu C : Poulet Kung Pao + Porc sauté à l'ail + Courge sautée aux œufs + Riz blanc (10 euros)
-Menu D : Chou sauté aux pousses de soja + Courge sautée aux œufs + Poivrons verts et julienne de pommes de terre + Riz blanc (10 euros)
-Menu E : Porc sauté au cumin + Bœuf braisé à la sauce jaune + Porc sauté à l'ail + Courge sautée aux œufs + Riz blanc (13 euros) (Note : pas de substitution de plats)
-Menu combiné :
-Menu combiné à 9 euros (petite portion) ou 10 euros (grande portion)
-Porc sauté au cumin, Bœuf braisé à la sauce jaune, Poulet Kung Pao, Porc sauté à l'ail, Courge sautée aux œufs, Julienne de pommes de terre et poivrons verts
-(Les menus combinés permettent de choisir deux plats, en portions standard, veuillez le préciser clairement)
+2023-07-05（il y a un deuxième menu d'un autre resto en bas)
+Déjeuner de travail demain midi :
+Menu A : Tripes de porc aux poivrons (épicé) + Ragoût de bœuf aux feuilles de chou + Courgettes sautées aux œufs + Riz blanc (10 euros)
+Menu B : Ragoût de bœuf aux patates douces + Ragoût de bœuf aux feuilles de chou + Courgettes sautées aux œufs + Riz blanc (10 euros)
+Menu C : Boulettes de viande braisées + Ragoût de bœuf aux feuilles de chou + Courgettes sautées aux œufs + Riz blanc (10 euros)
+Menu D : Ragoût épicé de bœuf aux feuilles de chou + Chou chinois sauté + Courgettes sautées aux œufs + Riz blanc (10 euros)
+Menu E : Tripes de porc aux poivrons + Ragoût de bœuf aux pommes de terre + Ragoût de bœuf aux feuilles de chou + Courgettes sautées aux œufs + Riz blanc (13 euros, note : ne pas changer les plats)
+Menu Double : 9 euros pour une petite portion, 10 euros pour une grande portion
+Tripes de porc aux poivrons, Ragoût de bœuf aux patates douces, Boulettes de viande braisées, Ragoût de bœuf aux feuilles de chou, Courgettes sautées aux œufs, Julienne de pommes de terre aux poivrons verts
 
 Riz recouvert de bœuf mijoté aux trois types de viande (tendons et tripes)
 Riz recouvert de porc aux mille couches
