@@ -1,9 +1,9 @@
-2023-09-21
-Menu A : Agneau sauté aux oignons (épicé) + Viande sautée aux pousses d'ail + Haricots verts sautés + Riz blanc (10 euros)
-Menu B : Côtes de porc aigre-douces + Viande sautée aux pousses d'ail + Haricots verts sautés + Riz blanc (10 euros)
-Menu C : Poulet mijoté à l'orange + Viande sautée aux pousses d'ail + Haricots verts sautés + Riz blanc (10 euros)
-Menu D : Haricots verts sautés + Légumes sautés à l'ail + Julienne de pommes de terre aux poivrons verts + Riz blanc (10 euros)
-Menu E : Agneau sauté aux oignons + Côtes de porc aigre-douces + Viande sautée aux pousses d'ail + Haricots verts sautés + Riz blanc (13 euros, note : pas de changement de plat),
-Menu Duo :
-Agneau sauté aux oignons, Côtes de porc aigre-douces, Poulet mijoté à l'orange, Viande sautée aux pousses d'ail, Haricots verts sautés, Julienne de pommes de terre aux poivrons verts,
+2023-10-25
+Menu A : Poulet épicé au poivre du Sichuan (épicé) + Viande sautée aux haricots longs chinois + Courge butternut végétarienne + Riz blanc (10 euros)
+Menu B : Porc à la sauce de haricots noirs + Viande sautée aux haricots longs chinois + Courge butternut végétarienne + Riz blanc (10 euros)
+Menu C : Bœuf au poivre noir (épicé) + Viande sautée aux haricots longs chinois + Courge butternut végétarienne + Riz blanc (10 euros)
+Menu D : Courge butternut végétarienne + Haricots longs chinois sautés + Julienne de pommes de terre aux poivrons verts + Riz blanc (10 euros)
+Menu E : Poulet épicé au poivre du Sichuan + Porc à la sauce de haricots noirs + Viande sautée aux haricots longs chinois + Courge butternut végétarienne + Riz blanc (13 euros, note : pas de changement de plat),
+Menu Duo : Grand 10 euros, Petit 9 euros
+Poulet épicé au poivre du Sichuan, Porc à la sauce de haricots noirs, Bœuf au poivre noir, Viande sautée aux haricots longs chinois, Courge butternut végétarienne, Julienne de pommes de terre aux poivrons verts,
 (Menu Duo signifie choisir deux plats parmi les options ci-dessus + une portion de riz, veuillez préciser la taille standard.)
